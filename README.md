@@ -1,6 +1,15 @@
 # docker16feb
-
+[github repo for simple nginx Dockerfile ](https://github.com/sahil7879/ci-cd-pipeline.git)   
+[githubrepo for .net Dockerfile](https://github.com/sahil7879/dotnetwebapp.git)
+[github repo for maven Dockerfile](https://github.com/sahil7879/javawebapp.git)[ 2nd repo](https://github.com/sahil7879/devops-maven-docker.git)
 [diagrams](https://excalidraw.com/#json=pRSLRdw4UtDXZgk-ABS-9,L2cK4vJv409ZL-OAMwjm_Q)  
 [etherpad link](https://etherpad.opendev.org/p/r.06ff3cd5cf954291864fdf71dc3a24b3)   
-[docker documentation](https://docs.docker.com/engine/install/ubuntu/)    
-[docker cheat sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+[docker documentation](https://docs.docker.com/engine/install/ubuntu/)        
+[docker cheat sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)    
+[docker cli commands ](https://docs.docker.com/reference/cli/docker/)    
+[docker images  ](https://docs.docker.com/reference/cli/docker/image/ls/)   
+[docker dockerfile](https://docs.docker.com/build/concepts/dockerfile/)     
+[docker volumes ](https://docs.docker.com/engine/storage/volumes/)   
+[docker networks ](https://docs.docker.com/engine/network/drivers/)   
+[docker compose ](https://docs.docker.com/compose/intro/compose-application-model/)   
+[docker swarm ](https://docs.docker.com/engine/swarm/stack-deploy/)  
