@@ -16,3 +16,4 @@
 [compose getting started ](https://docs.docker.com/compose/gettingstarted/)
 [docker swarm ](https://docs.docker.com/engine/swarm/stack-deploy/)  
 [github repo for docker swarm ](https://github.com/sahil7879/3tierapp.git)
+[cheatsheat for compose ](https://devhints.io/docker-compose)
